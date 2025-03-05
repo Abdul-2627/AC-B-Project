@@ -4,4 +4,10 @@
         justify-content: center;
         align-items: center;
     }
+    footer{
+        justify-content: center;
+        align-items: center;
+        padding: 13px;
+        margin: 0px;
+    }
 }
