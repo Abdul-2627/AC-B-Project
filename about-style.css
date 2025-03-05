@@ -1,0 +1,36 @@
+@media only screen and (max-width:576px){
+    #about-container{
+        width:100%;
+        height: 100%;
+        padding: 5px;
+        margin: 0px;
+    }
+    #about-contain {
+            padding: 5px !important;
+    }
+    #about-item {
+        padding:2px !important;
+    }
+
+    #service-container{
+        width: 95%;
+        display: grid;
+        justify-content: center;
+        align-items: center;
+        grid-template-rows: repeat(2, 1fr);
+        padding: 0px;
+        margin: 0px;
+        grid-gap: 1rem;
+    }
+    #our-service1{
+        padding: 5px;
+        margin: 0px;
+    }
+    #our-service2{
+        padding: 5px;
+        margin: 0px;
+    }
+    #badge{
+        display: none;        
+    }   
+}
